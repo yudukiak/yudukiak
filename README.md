@@ -26,15 +26,27 @@ akasaka yuduki
 [youtube-v-badge]: https://img.shields.io/youtube/channel/views/UC6OWbG7VL_Wd2l3r0hHYjYg
 [youtube-v]: https://www.youtube.com/yudukiak
 
-🏠 [U7D05 BAR](https://ydk.vc/)  
-📝 [pixivFANBOX](https://yudukiak.fanbox.cc/)
+[![Website URL][website-thumbnail]][website]
+[![Fanbox URL][fanbox-thumbnail]][fanbox]
+
+[website-thumbnail]: https://ydk.vc/wp-content/uploads/2024/04/007aa6f0ec6815b9157c85e5070918a1-300x146.png
+[website]: https://ydk.vc
+[fanbox-thumbnail]: https://ydk.vc/wp-content/uploads/2024/04/711652adb3815f893e3d6a3b9fa5d23a-300x146.png
+[fanbox]: https://yudukiak.fanbox.cc/
+
+[![Steam URL][steam-thumbnail]][steam]
+
+[steam-thumbnail]: https://ydk.vc/wp-content/uploads/2024/04/7d1f122b6328854c91baf26e858ba2e5.gif
+[steam]: https://steamcommunity.com/id/yudukiak/
+
+
 
 ## 📊 GitHub Readme Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudukiak&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudukiak&layout=compact&langs_count=8&theme=dracula)
 
 ## 🏆 GitHub Profile Trophy 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=yudukiak&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=yudukiak&theme=dracula&margin-w=8&margin-h=8&column=3)
 
 ## 📈 GitHub Profile Summary Cards 📈
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudukiak&theme=dracula)
