@@ -1,14 +1,12 @@
 <div align="center">
 
 ## 👘 おはゆづき！ 🌘
-
-![](https://ydk.vc/wp-content/uploads/2024/04/ba994f6ad44b114c96b27e4ffc3ccab5-768x347.png)
-
 akasaka yuduki  
 **紅坂 柚月**
 
-### 🔗 Links 🔗
+![紅坂 柚月](https://ydk.vc/wp-content/uploads/2024/04/ba994f6ad44b114c96b27e4ffc3ccab5-768x347.png)
 
+### 🔗 Links 🔗
 [![Twitter URL][twitter-badge]][twitter]  
 [![Youtube Subscriber URL][youtube-s-badge]][youtube-s]
 [![Youtube Views URL][youtube-v-badge]][youtube-v]  
@@ -39,8 +37,6 @@ akasaka yuduki
 [steam-thumbnail]: https://ydk.vc/wp-content/uploads/2024/04/7d1f122b6328854c91baf26e858ba2e5.gif
 [steam]: https://steamcommunity.com/id/yudukiak/
 
-
-
 ## 📊 GitHub Readme Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudukiak&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudukiak&layout=compact&langs_count=8&theme=dracula)
@@ -54,6 +50,5 @@ akasaka yuduki
 ![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yudukiak&theme=dracula)
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudukiak&theme=dracula)
 ![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yudukiak&theme=dracula&utcOffset=9)
-
 
 </div>
