@@ -4,7 +4,7 @@
 akasaka yuduki  
 **紅坂 柚月**
 
-![紅坂 柚月](https://ydk.vc/wp-content/uploads/2024/04/ba994f6ad44b114c96b27e4ffc3ccab5-768x347.png)
+![紅坂 柚月](https://ydk.vc/wp-content/uploads/2024/04/ba994f6ad44b114c96b27e4ffc3ccab5.png)
 
 ### 🔗 Links 🔗
 [![Twitter URL][twitter-badge]][twitter]  
@@ -24,13 +24,14 @@ akasaka yuduki
 [youtube-v-badge]: https://img.shields.io/youtube/channel/views/UC6OWbG7VL_Wd2l3r0hHYjYg
 [youtube-v]: https://www.youtube.com/yudukiak
 
-[![Website URL][website-thumbnail]][website]
-[![Fanbox URL][fanbox-thumbnail]][fanbox]
-
-[website-thumbnail]: https://ydk.vc/wp-content/uploads/2024/04/007aa6f0ec6815b9157c85e5070918a1-300x146.png
-[website]: https://ydk.vc
-[fanbox-thumbnail]: https://ydk.vc/wp-content/uploads/2024/04/711652adb3815f893e3d6a3b9fa5d23a-300x146.png
-[fanbox]: https://yudukiak.fanbox.cc/
+<p>
+  <a href="https://ydk.vc">
+    <img src="https://ydk.vc/wp-content/uploads/2024/04/007aa6f0ec6815b9157c85e5070918a1.png" alt="website" width="300px">
+  </a>
+  <a href="https://yudukiak.fanbox.cc/">
+    <img src="https://ydk.vc/wp-content/uploads/2024/04/711652adb3815f893e3d6a3b9fa5d23a.png" alt="fanbox" width="300px">
+  </a>
+</p>
 
 [![Steam URL][steam-thumbnail]][steam]
 
