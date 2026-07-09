@@ -115,52 +115,28 @@ My projects range from Chrome extensions and desktop apps to websites and self-h
 ## 📈 GitHub Stats 📈
 
 <!-- github-profile-summary-cards.vercel.app -->
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudukiak&theme=tokyonight"
-  alt="Top languages used in repository card"
-/>
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yudukiak&theme=tokyonight"
-  alt="Top commit used in repository card"
-/>
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudukiak&theme=tokyonight"
-  alt="GitHub stats card"
-/>
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yudukiak&theme=tokyonight&utcOffset=9"
-  alt="Productive time card"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudukiak&theme=tokyonight"
-  alt="Profile details card"
-/>
+![Top languages used in repository card][img-reposPerLanguage]
+![Top commit used in repository card][img-mostCommitLanguage]
+![GitHub stats card][img-stats]
+![Productive time card][img-productiveTime]
+![Profile details card][img-profileDetails]
+
+[img-reposPerLanguage]: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudukiak&theme=tokyonight
+[img-mostCommitLanguage]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yudukiak&theme=tokyonight
+[img-stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudukiak&theme=tokyonight
+[img-productiveTime]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yudukiak&theme=tokyonight&utcOffset=9
+[img-profileDetails]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudukiak&theme=tokyonight
 
 <!-- github-readme-stats-fast.vercel.app -->
-<img
-  width="49%"
-  src="https://github-readme-stats-fast.vercel.app/api?username=yudukiak&show_icons=true&line_height=31&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
-<img
-  width="49%"
-  src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=akasaka&theme=tokyonight&hide_border=true"
-  alt="Harlok's WakaTime stats"
-/>
-<img
-  width="49%"
-  src="https://github-readme-stats-fast.vercel.app/api/streak?username=yudukiak&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-<img
-  width="49%"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yudukiak&card_width=420&layout=compact&theme=tokyonight&hide_border=true"
-  alt="GitHub Languages"
-/>
+![GitHub Stats][img-stats]
+![Harlok's WakaTime stats][img-wakatime]
+![GitHub Streak][img-streak]
+![GitHub Languages][img-topLangs]
+
+[img-stats]: https://github-readme-stats-fast.vercel.app/api?username=yudukiak&show_icons=true&line_height=31&theme=tokyonight&hide_border=true
+[img-wakatime]: https://github-readme-stats-fast.vercel.app/api/wakatime?username=akasaka&theme=tokyonight&hide_border=true
+[img-streak]: https://github-readme-stats-fast.vercel.app/api/streak?username=yudukiak&theme=tokyonight&hide_border=true
+[img-topLangs]: https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yudukiak&card_width=420&layout=compact&theme=tokyonight&hide_border=true
 
 <!-- github-profile-maker.vercel.app -->
 <img
