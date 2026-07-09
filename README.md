@@ -41,78 +41,46 @@ My projects range from Chrome extensions and desktop apps to websites and self-h
 
 ## ⭐ Featured Projects ⭐
 
-<a href="https://github.com/yudukiak/ccfoliaCSS">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccfoliaCSS&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="ccfoliaCSS"
-  />
-</a>
-<a href="https://github.com/yudukiak/ToSpeak">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ToSpeak&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="ToSpeak"
-  />
-</a>
+[![ccfoliaCSS][img-ccfoliaCSS]][url-ccfoliaCSS]
+[![ToSpeak][img-ToSpeak]][url-ToSpeak]
+
+[img-ccfoliaCSS]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccfoliaCSS&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-ccfoliaCSS]: https://github.com/yudukiak/ccfoliaCSS
+[img-ToSpeak]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ToSpeak&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-ToSpeak]: https://github.com/yudukiak/ToSpeak
 
 ### Website
 
-<a href="https://github.com/yudukiak/ccGridMap">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccGridMap&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="ccGridMap"
-  />
-</a>
-<a href="https://github.com/yudukiak/emokloreDiceCheck">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=emokloreDiceCheck&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="emokloreDiceCheck"
-  />
-</a>
-<a href="https://github.com/yudukiak/nByteHighlighter">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=nByteHighlighter&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="nByteHighlighter"
-  />
-</a>
+[![ccGridMap][img-ccGridMap]][url-ccGridMap]
+[![emokloreDiceCheck][img-emokloreDiceCheck]][url-emokloreDiceCheck]
+[![nByteHighlighter][img-nByteHighlighter]][url-nByteHighlighter]
+
+[img-ccGridMap]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccGridMap&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-ccGridMap]: https://github.com/yudukiak/ccGridMap
+[img-emokloreDiceCheck]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=emokloreDiceCheck&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-emokloreDiceCheck]: https://github.com/yudukiak/emokloreDiceCheck
+[img-nByteHighlighter]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=nByteHighlighter&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-nByteHighlighter]: https://github.com/yudukiak/nByteHighlighter
 
 ### Chrome Extensions
 
-<a href="https://github.com/yudukiak/YouTubeScreenShot">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=YouTubeScreenShot&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="YouTubeScreenShot"
-  />
-</a>
-<a href="https://github.com/yudukiak/simple-url-copy">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=simple-url-copy&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="simple-url-copy"
-  />
-</a>
+[![YouTubeScreenShot][img-YouTubeScreenShot]][url-YouTubeScreenShot]
+[![simpleUrlCopy][img-simpleUrlCopy]][url-simpleUrlCopy]
+
+[img-YouTubeScreenShot]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=YouTubeScreenShot&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-YouTubeScreenShot]: https://github.com/yudukiak/YouTubeScreenShot
+[img-simpleUrlCopy]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=simpleUrlCopy&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-simpleUrlCopy]: https://github.com/yudukiak/simpleUrlCopy
 
 ### Archive
 
-<a href="https://github.com/yudukiak/DiSpeak">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=DiSpeak&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="DiSpeak"
-  />
-</a>
-<a href="https://github.com/yudukiak/gbf_Summon">
-  <img
-    width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=gbf_Summon&theme=tokyonight&hide_border=true&description_lines_count=1"
-    alt="gbf_Summon"
-  />
-</a>
+[![DiSpeak][img-DiSpeak]][url-DiSpeak]
+[![gbf_Summon][img-gbf_Summon]][url-gbf_Summon]
+
+[img-DiSpeak]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=DiSpeak&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-DiSpeak]: https://github.com/yudukiak/DiSpeak
+[img-gbf_Summon]: https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=gbf_Summon&theme=tokyonight&hide_border=true&description_lines_count=1
+[url-gbf_Summon]: https://github.com/yudukiak/gbf_Summon
 
 ## 🧰 Tech & Tools 🧰
 
