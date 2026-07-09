@@ -44,36 +44,73 @@ My projects range from Chrome extensions and desktop apps to websites and self-h
 <a href="https://github.com/yudukiak/ccfoliaCSS">
   <img
     width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccfoliaCSS&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccfoliaCSS&theme=tokyonight&hide_border=true&description_lines_count=1"
     alt="ccfoliaCSS"
   />
 </a>
 <a href="https://github.com/yudukiak/ToSpeak">
   <img
     width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ToSpeak&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ToSpeak&theme=tokyonight&hide_border=true&description_lines_count=1"
     alt="ToSpeak"
   />
 </a>
+
+### Website
+
 <a href="https://github.com/yudukiak/ccGridMap">
   <img
     width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccGridMap&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccGridMap&theme=tokyonight&hide_border=true&description_lines_count=1"
     alt="ccGridMap"
   />
 </a>
+<a href="https://github.com/yudukiak/emokloreDiceCheck">
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=emokloreDiceCheck&theme=tokyonight&hide_border=true&description_lines_count=1"
+    alt="emokloreDiceCheck"
+  />
+</a>
+<a href="https://github.com/yudukiak/nByteHighlighter">
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=nByteHighlighter&theme=tokyonight&hide_border=true&description_lines_count=1"
+    alt="nByteHighlighter"
+  />
+</a>
+
+### Chrome Extensions
+
 <a href="https://github.com/yudukiak/YouTubeScreenShot">
   <img
     width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=YouTubeScreenShot&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=YouTubeScreenShot&theme=tokyonight&hide_border=true&description_lines_count=1"
     alt="YouTubeScreenShot"
   />
 </a>
 <a href="https://github.com/yudukiak/simple-url-copy">
   <img
     width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=simple-url-copy&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=simple-url-copy&theme=tokyonight&hide_border=true&description_lines_count=1"
     alt="simple-url-copy"
+  />
+</a>
+
+### Archive
+
+<a href="https://github.com/yudukiak/DiSpeak">
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=DiSpeak&theme=tokyonight&hide_border=true&description_lines_count=1"
+    alt="DiSpeak"
+  />
+</a>
+<a href="https://github.com/yudukiak/gbf_Summon">
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=gbf_Summon&theme=tokyonight&hide_border=true&description_lines_count=1"
+    alt="gbf_Summon"
   />
 </a>
 
@@ -109,6 +146,7 @@ My projects range from Chrome extensions and desktop apps to websites and self-h
 
 ## 📈 GitHub Stats 📈
 
+<!-- github-profile-summary-cards.vercel.app -->
 <img
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudukiak&theme=tokyonight"
@@ -134,44 +172,51 @@ My projects range from Chrome extensions and desktop apps to websites and self-h
   alt="Profile details card"
 />
 
+<!-- github-readme-stats-fast.vercel.app -->
 <img
   width="49%"
-  src="https://github-readme-stats-fast.vercel.app/api?username=yudukiak&show_icons=true&theme=tokyonight"
+  src="https://github-readme-stats-fast.vercel.app/api?username=yudukiak&show_icons=true&line_height=31&theme=tokyonight&hide_border=true"
   alt="GitHub Stats"
 />
 <img
   width="49%"
-  src="https://github-readme-stats-fast.vercel.app/api/streak?username=yudukiak&theme=tokyonight"
+  src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=akasaka&theme=tokyonight&hide_border=true"
+  alt="Harlok's WakaTime stats"
+/>
+<img
+  width="49%"
+  src="https://github-readme-stats-fast.vercel.app/api/streak?username=yudukiak&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 <img
   width="49%"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yudukiak&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yudukiak&card_width=420&layout=compact&theme=tokyonight&hide_border=true"
   alt="GitHub Languages"
 />
 
+<!-- github-profile-maker.vercel.app -->
 <img
   width="49%"
-  src="https://github-profile-maker.vercel.app/api/stats?username=yudukiak&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=12"
+  src="https://github-profile-maker.vercel.app/api/stats?username=yudukiak&theme=tokyonight&layout=standard&show_icons=true&hide_border=true&hide_title=false&hide_rank=false&border_radius=12"
   alt="GitHub Stats"
 />
 <img
   width="49%"
-  src="https://github-profile-maker.vercel.app/api/streak?username=yudukiak&theme=tokyonight&hide_border=false&border_radius=12"
+  src="https://github-profile-maker.vercel.app/api/streak?username=yudukiak&theme=tokyonight&hide_border=true&border_radius=12"
   alt="GitHub Streak"
 />
 <img
   width="49%"
-  src="https://github-profile-maker.vercel.app/api/top-langs?username=yudukiak&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=12"
+  src="https://github-profile-maker.vercel.app/api/top-langs?username=yudukiak&theme=tokyonight&layout=compact&hide_border=true&hide_progress=false&langs_count=8&border_radius=12"
   alt="Top Languages"
 />
 <img
   width="49%"
-  src="https://github-profile-maker.vercel.app/api/activity?username=yudukiak&theme=tokyonight&hide_border=false"
+  src="https://github-profile-maker.vercel.app/api/activity?username=yudukiak&theme=tokyonight&hide_border=true&border_radius=12"
   alt="GitHub Activity Graph"
 />
 <img
-  src="https://github-profile-maker.vercel.app/api/trophies?username=yudukiak&theme=tokyonight&column=6&row=1&margin_w=10&margin_h=10&no_frame=false&no_bg=false"
+  src="https://github-profile-maker.vercel.app/api/trophies?username=yudukiak&theme=tokyonight&column=6&row=1&margin_w=10&margin_h=10&no_frame=false&no_bg=false&border_radius=12"
   alt="GitHub Trophies"
 />
 
