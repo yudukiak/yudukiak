@@ -37,13 +37,10 @@ VTuber / フロントエンド寄りの個人開発者です。
 
 ### ⭐ Featured Projects ⭐
 
-| Project | Description |
-| --- | --- |
-| [ccfoliaCSS](https://github.com/yudukiak/ccfoliaCSS) | ccfolia を OBS で表示するときに使う CSS 集 |
-| [ToSpeak](https://github.com/yudukiak/ToSpeak) | トーストの告知を語る Electron アプリ |
-| [ccGridMap](https://github.com/yudukiak/ccGridMap) | ココフォリア向けグリッドマップ作成サイト |
-| [nagemoji](https://github.com/yudukiak/nagemoji) | YouTube コメントを検知して OBS 上に表示 |
-| [GobslaYutoCC](https://github.com/yudukiak/GobslaYutoCC) | ゆとシートからココフォリアの駒を生成する Chrome 拡張 |
+![ccfoliaCSS](https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ccfoliaCSS&theme=tokyonight)
+![ToSpeak](https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=ToSpeak&theme=tokyonight)
+![YouTubeScreenShot](https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=YouTubeScreenShot&theme=tokyonight)
+![simple-url-copy](https://github-readme-stats-fast.vercel.app/api/pin/?username=yudukiak&repo=simple-url-copy&theme=tokyonight)
 
 ### 🎨 Web & UI 🎨
 
@@ -59,9 +56,39 @@ VTuber / フロントエンド寄りの個人開発者です。
 
 ## 📈 GitHub Stats 📈
 
-![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudukiak&theme=dracula)
-![GitHub stats card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudukiak&theme=dracula)
-![Top languages used in repository card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudukiak&theme=dracula)
-![Productive time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yudukiak&theme=dracula&utcOffset=9)
+![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudukiak&theme=tokyonight)
+![Top languages used in repository card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudukiak&theme=tokyonight)
+![Top commit used in repository card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yudukiak&theme=tokyonight)
+![GitHub stats card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudukiak&theme=tokyonight)
+![Productive time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yudukiak&theme=tokyonight&utcOffset=9)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yudukiak&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=yudukiak&theme=tokyonight)
+![GitHub Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yudukiak&layout=compact&theme=tokyonight)
+
+<img
+  width="49%"
+  src="https://github-profile-maker.vercel.app/api/stats?username=yudukiak&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=12"
+  alt="GitHub Stats"
+/>
+<img
+  width="49%"
+  src="https://github-profile-maker.vercel.app/api/streak?username=yudukiak&theme=tokyonight&hide_border=false&border_radius=12"
+  alt="GitHub Streak"
+/>
+<img
+  width="49%"
+  src="https://github-profile-maker.vercel.app/api/top-langs?username=yudukiak&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=12"
+  alt="Top Languages"
+/>
+<img
+  width="49%"
+  src="https://github-profile-maker.vercel.app/api/activity?username=yudukiak&theme=tokyonight&hide_border=false"
+  alt="GitHub Activity Graph"
+/>
+<img
+  src="https://github-profile-maker.vercel.app/api/trophies?username=yudukiak&theme=tokyonight&column=6&row=1&margin_w=10&margin_h=10&no_frame=false&no_bg=false"
+  alt="GitHub Trophies"
+/>
 
 </div>
